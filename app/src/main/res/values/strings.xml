@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipeVideo</string>
+    <string name="video_id_format">Video ID: %1$s</string>
+    <string name="swipe_hint">Swipe up ↑</string>
+    <string name="logo_description">SwipeVideo logo</string>
+    <string name="paused_description">Paused</string>
+</resources>
